@@ -37,7 +37,7 @@ int main(){
 	}
 	cout << "Enter number of queries" << endl;
 	cin >> n;
-	cout << "Enter union queries as a b pair" << endl;
+	cout << "Enter union queries as a b pair " << endl;
 	for(int i=0; i<n; i++){
 		int a,b;
 		cin >> a >> b;
